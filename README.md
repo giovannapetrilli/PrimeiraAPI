@@ -1,2 +1,2 @@
 # PrimeiraAPI
-Desenvolvimento da minha primeira Api solo.
+Desenvolvimento da minha primeira Api sozinha.
